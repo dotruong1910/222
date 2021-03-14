@@ -1,0 +1,21 @@
+{
+    "C_Cpp.errorSquiggles": "enable"
+}
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "workbench.colorTheme": "Dracula Soft",
+    "C_Cpp.updateChannel": "Insiders",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "http.proxySupport": "off",
+    "editor.renderControlCharacters": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": " arial, 'Courier New', monospace",
+    "editor.fontSize": 30,
+    "editor.fontWeight": 500,
+    //"editor.fontFamily": "Fira Code",
+   // "terminal.integrated.fontFamily": "monospace",
+    //"editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'"
+}

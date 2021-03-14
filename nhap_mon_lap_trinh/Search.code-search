@@ -1,0 +1,15 @@
+# Query: font
+# ContextLines: 1
+
+7 results - 1 file
+
+.vscode\settings.json:
+  13      "editor.renderControlCharacters": true,
+  14:     "editor.fontLigatures": true,
+  15:     "editor.fontFamily": " arial, 'Courier New', monospace",
+  16:     "editor.fontSize": 30,
+  17:     "editor.fontWeight": 500,
+  18:     //"editor.fontFamily": "Fira Code",
+  19:    // "terminal.integrated.fontFamily": "monospace",
+  20:     //"editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'"
+  21  }
